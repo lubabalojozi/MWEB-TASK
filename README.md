@@ -3,7 +3,7 @@ Prerequite for this project :
 (a) AWS Account in place
 (b) Assuming you have Python install on your machine install the following libraries 
    (i) Boto3 this allows one to interact with AWS resources including Amazon s3 -- pip install boto3
-  (ii) Flask this framework is widely used for building REST APIs
+  (ii) Flask this framework is widely used for building REST APIs --pip install Flask
 
 Once this is done, I have attached two python scripts ; app.py and app_1.py . These can be tested separately
 
