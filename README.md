@@ -11,7 +11,7 @@ using your shell/bash.
 
 Most the parameter in the script require your input as I cannot use my own AWS credentials for security reasons.
 
-I have alos attached the CSV file to be uploaded on s3.
+I have alos attached the CSV file to be uploaded on s3 (Lu-siblings).
 
 For Postman testing please use the below:
 
